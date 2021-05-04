@@ -3,7 +3,7 @@ This repository contains Python code to recognize Handwritten-Digits with LeNet-
 
 The Dataset used to train the Neural Network is taken from [Kaggle.com](https://www.kaggle.com/c/digit-recognizer/data).
 
-Requierments:
+Requirements:
 - [Tensorflow](https://www.tensorflow.org/)
 - [Numpy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
